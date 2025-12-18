@@ -66,7 +66,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/USERNAME_KAMU/binggierashel/blob/output/github-contribution-grid-snake.svg" alt="snake contribution"/>
+  <img src="https://github.com/binggierashel/binggierashel/blob/output/github-contribution-grid-snake.svg" alt="snake contribution"/>
 </p>
 
 
