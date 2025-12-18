@@ -66,9 +66,16 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/binggierashel/binggierashel/blob/output/github-snake.gif"
-       alt="github contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/binggierashel/binggierashel/blob/output/github-snake-dark.gif" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github.com/binggierashel/binggierashel/blob/output/github-snake-light.gif" />
+    <img alt="github contribution snake animation"
+      src="https://github.com/binggierashel/binggierashel/blob/output/github-snake-light.gif" />
+  </picture>
 </p>
+
 
 
 ⭐ *If you like my work, consider giving a star to my repositories!*
