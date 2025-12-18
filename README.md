@@ -47,23 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binggierashel&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binggierashel&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=binggierashel&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p>
