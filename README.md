@@ -67,12 +67,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/binggierashel/binggierashel/blob/output/github-snake-dark.gif" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github.com/binggierashel/binggierashel/blob/output/github-snake-light.gif" />
     <img alt="github contribution snake animation"
-      src="https://github.com/binggierashel/binggierashel/blob/output/github-snake-light.gif" />
+      src="https://github.com/binggierashel/binggierashel/blob/output/github-snake-dark.gif" />
   </picture>
 </p>
 
