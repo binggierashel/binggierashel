@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake (Dark)
 
 on:
   workflow_dispatch:
@@ -15,15 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake GIF (light & dark)
+      - name: Generate dark snake
         uses: Platane/snk@v3
         with:
           github_user_name: binggierashel
           outputs: |
-            dist/github-snake-light.gif?color_snake=#00ff99&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
-            
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

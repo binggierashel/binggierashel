@@ -66,10 +66,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <img alt="github contribution snake animation"
-      src="https://github.com/binggierashel/binggierashel/blob/output/github-snake-light.gif" />
-  </picture>
+  <img src="https://github.com/binggierashel/binggierashel/blob/output/github-snake-dark.svg"
+       alt="github contribution snake dark" />
 </p>
 
 
