@@ -68,7 +68,7 @@
 <p align="center">
   <picture>
     <img alt="github contribution snake animation"
-      src="https://github.com/binggierashel/binggierashel/blob/output/github-snake-dark.gif" />
+      src="https://github.com/binggierashel/binggierashel/blob/output/github-snake-light.gif" />
   </picture>
 </p>
 
